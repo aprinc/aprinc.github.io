@@ -1,0 +1,43 @@
+html {
+   font-family: 'Playfair Display', serif; 
+}
+
+ul{ 
+    text-align: right;
+    margin-right: 30px
+}
+
+li {
+    display: inline;
+    margin-right: 23px;
+    font-size: 16px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 23px;
+}
+
+.creepy_forest{
+    
+}
+
+.green_plants{
+    
+}
+.new_york{
+    
+}
+.header {
+    margin-left: 20px;
+    font-size: 19x;
+}
+
+.main_content {
+     margin-left: 25%;
+    margin-right: 25%;
+}
+
+p {
+    font-size: 100%;
+}
